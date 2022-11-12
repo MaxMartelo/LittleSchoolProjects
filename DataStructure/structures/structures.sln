@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structures", "structures\structures.csproj", "{0DA0D50D-7AD3-4189-8385-963FCEED7124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structuresTests", "structuresTests\structuresTests.csproj", "{21EB9896-D9EF-4FB7-A03D-7518D7EFA835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DA0D50D-7AD3-4189-8385-963FCEED7124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA0D50D-7AD3-4189-8385-963FCEED7124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA0D50D-7AD3-4189-8385-963FCEED7124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA0D50D-7AD3-4189-8385-963FCEED7124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21EB9896-D9EF-4FB7-A03D-7518D7EFA835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EB9896-D9EF-4FB7-A03D-7518D7EFA835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EB9896-D9EF-4FB7-A03D-7518D7EFA835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EB9896-D9EF-4FB7-A03D-7518D7EFA835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
